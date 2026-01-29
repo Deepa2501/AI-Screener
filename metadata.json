@@ -1,0 +1,5 @@
+{
+  "name": "MatchPoint AI - Resume Screener",
+  "description": "An AI-powered recruitment platform that leverages Gemini to intelligently match resumes with job descriptions, providing unbiased scoring and skill gap analysis.",
+  "requestFramePermissions": []
+}
